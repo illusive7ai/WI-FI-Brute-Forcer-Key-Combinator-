@@ -1,4 +1,4 @@
-The WI-FI Brute Forcer
+The WI-FI Brute Forcer.
 ![Screenshot Placeholder](GUI.png)
 
 Table of Contents
